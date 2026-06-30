@@ -3,7 +3,7 @@
 A 3D interactive portfolio built with Three.js.
 
 ## Live Demo
-https://andreaisabelmontana.github.io
+https://andreaisabelmontana.github.io/aim-for-the-future.github.io/
 
 ## Features
 - 3D animated character in the center
